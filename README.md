@@ -1,2 +1,0 @@
-# testNew
-For testing purpose
